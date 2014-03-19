@@ -1,0 +1,15 @@
+2014-03-12 12:26:56,562 INFO  [AwReporting] Using properties file: aw-report-sample.properties
+2014-03-12 12:26:59,359 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report-sample.properties]
+2014-03-12 12:27:04,734 INFO  [AwReporting] Starting report download for dateStart: 20140101 and dateEnd: 20140131
+2014-03-12 12:27:04,734 INFO  [ReportProcessorOnFile] *** Retrieving account IDs ***
+2014-03-12 12:27:04,734 INFO  [ReportProcessor] Account IDs being recovered from the API. This may take a while...
+2014-03-17 11:41:20,843 INFO  [AwReporting] Using properties file: aw-report-sample.properties
+2014-03-17 11:41:24,203 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report-sample.properties]
+2014-03-17 11:41:31,437 INFO  [AwReporting] Starting report download for dateStart: 20140101 and dateEnd: 20140131
+2014-03-17 11:41:31,437 INFO  [ReportProcessorOnFile] *** Retrieving account IDs ***
+2014-03-17 11:41:31,437 INFO  [ReportProcessor] Account IDs being recovered from the API. This may take a while...
+2014-03-17 16:32:03,640 INFO  [AwReporting] Using properties file: aw-report-sample.properties
+2014-03-17 16:32:04,484 INFO  [DynamicPropertyPlaceholderConfigurer] Loading properties file from class path resource [aw-report-sample.properties]
+2014-03-17 16:32:06,843 INFO  [AwReporting] Starting report download for dateStart: 20140101 and dateEnd: 20140131
+2014-03-17 16:32:06,843 INFO  [ReportProcessorOnFile] *** Retrieving account IDs ***
+2014-03-17 16:32:06,843 INFO  [ReportProcessor] Account IDs being recovered from the API. This may take a while...
